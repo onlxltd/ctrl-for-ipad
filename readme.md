@@ -6,14 +6,10 @@
 - Visit the [Ctrl for iPad](https://labs.onlx.ltd/ctrl-for-ipad) website
 - Download exclusive from the [App Store](https://apps.apple.com/gb/app/ctrl-for-ipad/id1247514528)
 
-<br />
-
 ## Useful Links
 - Get support within our community via [Discussions](https://github.com/onlxltd/ctrl-for-ipad/discussions)
 - Read our documentation in the [User Manual](https://docs.onlx.ltd/ctrl-for-ipad)
 - Look through previously asked questions in the [Knowledge Base](https://docs.onlx.ltd/knowledge-base)
-
-<br>
 
 ## What does Ctrl for iPad do?
 
