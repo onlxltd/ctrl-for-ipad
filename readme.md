@@ -1,7 +1,5 @@
 ![Ctrl for iPad](./assets/cfi-banner.jpg)
 
-<br />
-
 ## Get Started
 - Visit the [Ctrl for iPad](https://labs.onlx.ltd/ctrl-for-ipad) website
 - Download exclusive from the [App Store](https://apps.apple.com/gb/app/ctrl-for-ipad/id1247514528)
