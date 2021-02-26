@@ -1,5 +1,7 @@
 ![Ctrl for iPad](./assets/cfi-banner.jpg)
 
+
+
 ## Get Started
 - Visit the [Ctrl for iPad](https://labs.onlx.ltd/ctrl-for-ipad) website
 - Download exclusive from the [App Store](https://apps.apple.com/gb/app/ctrl-for-ipad/id1247514528)
@@ -18,3 +20,9 @@ Create multiple pages of playlists, sliders, buttons, video controls, images and
 Before the conception of Ctrl for iPad, we were looking for a touch screen interface for use on our own installations. We found the best option instead of developing custom hardware was to create an application based around the iPads compact design. Along with its multiple form factors, continual security updates and wide availability, an iPad paired with a professional mounting solution commercial grade button was a no-brainer when compared to button plates plates at a lower cost.
 
 All editing can be carried out within the App itself meaning all you need is your iPad. When you’re done designing, change out of edit mode to allow your interface to run.
+
+<br />
+
+Copyright (c) ON LX Limited 2018 - 2021
+
+Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
