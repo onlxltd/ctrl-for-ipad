@@ -23,6 +23,6 @@ All editing can be carried out within the App itself meaning all you need is you
 
 <br />
 
-Copyright (c) ON LX Limited 2018 - 2023
+Copyright (c) ON LX Limited 2018 - 2024
 
 Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries.
